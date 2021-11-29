@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/thef2e-take-a-bus/static/css/main.8882f4b2.chunk.css",
-    "main.js": "/thef2e-take-a-bus/static/js/main.469ebcc1.chunk.js",
-    "main.js.map": "/thef2e-take-a-bus/static/js/main.469ebcc1.chunk.js.map",
+    "main.css": "/thef2e-take-a-bus/static/css/main.51965944.chunk.css",
+    "main.js": "/thef2e-take-a-bus/static/js/main.37cae803.chunk.js",
+    "main.js.map": "/thef2e-take-a-bus/static/js/main.37cae803.chunk.js.map",
     "runtime-main.js": "/thef2e-take-a-bus/static/js/runtime-main.48c91648.js",
     "runtime-main.js.map": "/thef2e-take-a-bus/static/js/runtime-main.48c91648.js.map",
     "static/js/2.a310acb3.chunk.js": "/thef2e-take-a-bus/static/js/2.a310acb3.chunk.js",
     "static/js/2.a310acb3.chunk.js.map": "/thef2e-take-a-bus/static/js/2.a310acb3.chunk.js.map",
     "index.html": "/thef2e-take-a-bus/index.html",
-    "static/css/main.8882f4b2.chunk.css.map": "/thef2e-take-a-bus/static/css/main.8882f4b2.chunk.css.map",
+    "static/css/main.51965944.chunk.css.map": "/thef2e-take-a-bus/static/css/main.51965944.chunk.css.map",
     "static/js/2.a310acb3.chunk.js.LICENSE.txt": "/thef2e-take-a-bus/static/js/2.a310acb3.chunk.js.LICENSE.txt",
     "static/media/currentMarker.75df87e2.svg": "/thef2e-take-a-bus/static/media/currentMarker.75df87e2.svg",
     "static/media/styles.module.scss": "/thef2e-take-a-bus/static/media/logo.20dab95a.svg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.48c91648.js",
     "static/js/2.a310acb3.chunk.js",
-    "static/css/main.8882f4b2.chunk.css",
-    "static/js/main.469ebcc1.chunk.js"
+    "static/css/main.51965944.chunk.css",
+    "static/js/main.37cae803.chunk.js"
   ]
 }
