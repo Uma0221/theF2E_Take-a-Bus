@@ -1,26 +1,23 @@
 {
   "files": {
-    "main.css": "/TDX-babago/static/css/main.3e9079e0.chunk.css",
-    "main.js": "/TDX-babago/static/js/main.d3ca71cb.chunk.js",
-    "main.js.map": "/TDX-babago/static/js/main.d3ca71cb.chunk.js.map",
-    "runtime-main.js": "/TDX-babago/static/js/runtime-main.4ae41a7b.js",
-    "runtime-main.js.map": "/TDX-babago/static/js/runtime-main.4ae41a7b.js.map",
-    "static/js/2.e748fc69.chunk.js": "/TDX-babago/static/js/2.e748fc69.chunk.js",
-    "static/js/2.e748fc69.chunk.js.map": "/TDX-babago/static/js/2.e748fc69.chunk.js.map",
-    "index.html": "/TDX-babago/index.html",
-    "service-worker.js": "/TDX-babago/service-worker.js",
-    "service-worker.js.map": "/TDX-babago/service-worker.js.map",
-    "static/css/main.3e9079e0.chunk.css.map": "/TDX-babago/static/css/main.3e9079e0.chunk.css.map",
-    "static/js/2.e748fc69.chunk.js.LICENSE.txt": "/TDX-babago/static/js/2.e748fc69.chunk.js.LICENSE.txt",
-    "static/media/currentMarker.75df87e2.svg": "/TDX-babago/static/media/currentMarker.75df87e2.svg",
-    "static/media/styles.module.scss": "/TDX-babago/static/media/undraw_lost_re_xqjt.ad044b01.svg",
-    "static/media/selectStopMarker.baef4053.svg": "/TDX-babago/static/media/selectStopMarker.baef4053.svg",
-    "static/media/stopMarker.32658068.svg": "/TDX-babago/static/media/stopMarker.32658068.svg"
+    "main.css": "/thef2e-take-a-bus/static/css/main.391421a9.chunk.css",
+    "main.js": "/thef2e-take-a-bus/static/js/main.37f98acc.chunk.js",
+    "main.js.map": "/thef2e-take-a-bus/static/js/main.37f98acc.chunk.js.map",
+    "runtime-main.js": "/thef2e-take-a-bus/static/js/runtime-main.48c91648.js",
+    "runtime-main.js.map": "/thef2e-take-a-bus/static/js/runtime-main.48c91648.js.map",
+    "static/js/2.63c56f33.chunk.js": "/thef2e-take-a-bus/static/js/2.63c56f33.chunk.js",
+    "static/js/2.63c56f33.chunk.js.map": "/thef2e-take-a-bus/static/js/2.63c56f33.chunk.js.map",
+    "index.html": "/thef2e-take-a-bus/index.html",
+    "static/css/main.391421a9.chunk.css.map": "/thef2e-take-a-bus/static/css/main.391421a9.chunk.css.map",
+    "static/js/2.63c56f33.chunk.js.LICENSE.txt": "/thef2e-take-a-bus/static/js/2.63c56f33.chunk.js.LICENSE.txt",
+    "static/media/currentMarker.75df87e2.svg": "/thef2e-take-a-bus/static/media/currentMarker.75df87e2.svg",
+    "static/media/styles.module.scss": "/thef2e-take-a-bus/static/media/logo.20dab95a.svg",
+    "static/media/stopMarker.2a67d0aa.svg": "/thef2e-take-a-bus/static/media/stopMarker.2a67d0aa.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ae41a7b.js",
-    "static/js/2.e748fc69.chunk.js",
-    "static/css/main.3e9079e0.chunk.css",
-    "static/js/main.d3ca71cb.chunk.js"
+    "static/js/runtime-main.48c91648.js",
+    "static/js/2.63c56f33.chunk.js",
+    "static/css/main.391421a9.chunk.css",
+    "static/js/main.37f98acc.chunk.js"
   ]
 }
